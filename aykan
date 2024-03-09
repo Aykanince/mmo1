@@ -1,0 +1,7 @@
+# https://tea.xyz/what-is-this-file
+# created with https://mash.pkgx.sh/mxcl/tea-register
+---
+version: 1.0.0
+codeOwners:
+  - '0xCb19a3Bff3ab6E88ca9a4a60467ab8Cd82E575Cf'  
+quorum: 1
